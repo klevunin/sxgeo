@@ -1,0 +1,21 @@
+{
+    "name": "klev/sypex-geo",
+    "description": "sypex.net api php",
+    "type": "library",
+    "version": "1.0.0",
+    "keywords": ["sxgeo", "sypex", "geoip"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kirill Levunin",
+            "email": "klevunin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Klev\\SypexGeo\\": "src"
+        }
+    }
+}
