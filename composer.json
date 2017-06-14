@@ -2,7 +2,7 @@
     "name": "klev/sypex-geo",
     "description": "sypex.net api php",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.0-stable",
     "keywords": ["sxgeo", "sypex", "geoip"],
     "license": "MIT",
     "authors": [
