@@ -13,9 +13,7 @@ The recommended installation way is through [Composer](https://getcomposer.org).
 ```sh
 $ composer require klev/sypex-geo
 ```
-Change the configuration file
 
-    config/config.php
 
 
 ## Usage:
