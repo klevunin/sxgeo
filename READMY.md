@@ -36,7 +36,7 @@ bd
 Example: 
 
     require(__DIR__ . "/../vendor/autoload.php");
-    $SxGeo = new SxGeo('/home/newsite/app/module/geo/SxGeoCity.dat');
+    $SxGeo = new SxGeo();
     $ip = $_SERVER['REMOTE_ADDR'];
     var_damp($SxGeo->get($ip));
     
